@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Codystar&size=50&duration=3000&pause=200&color=FFC01E&center=true&vCenter=true&random=false&width=1050&height=101&lines=I+AM+ARCANA+CODER;A+SOFTWARE+DEVELOPER+IN+PROGRESS;WELCOME+TO+MY+PROFILE)](https://git.io/typing-svg) <br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Codystar&size=35&duration=4000&pause=600&color=00F758&vCenter=true&random=false&width=700&height=75&lines=I'm+ArcanaCoder;a+software+developer+in+progress;welcome+to+my+profile)](https://git.io/typing-svg) <br>
 
 <h2> 🎨 Design </h2>
 
