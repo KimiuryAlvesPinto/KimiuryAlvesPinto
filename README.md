@@ -2,11 +2,13 @@
 <br>
 
 <h1>
+        
 <img align="right" src="https://github.com/KimiuryAlves/KimiuryAlves/assets/163214869/97b10194-9bd4-41cc-a807-cab8674feaa2"  width="250px"/>
+
 <span>  RUNNING  </span>       
 </h1> 
 
-<br>
+
 I am working in a small projects, tranning the logic and commands. <br>
 I'm learnig day by day and falling love. Coding is magic!
 <br>
@@ -25,12 +27,14 @@ I'm learnig day by day and falling love. Coding is magic!
 I've just started to study about C# in a Bootcamp from DIO.me <br>
 
 ![C-SHARP](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge&color=black)
+<br>
+
 
 <h3> 💻 Tools </h3> <br>
 
-I tried a little bit of each of these IDEs. <br>
-Since last year, I've been studying several types of code to see how everything works. <br>
-As a beginner, this approach has been better for my learning to develop too fast.
+I tried a little bit of each of these IDEs. 
+Since last year, I've been studying several <br> types of code to see how it works. 
+As a beginner, this approach has been better <br> for my learning to develop too fast.
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white&color=black)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=black)
@@ -60,7 +64,7 @@ As a beginner, this approach has been better for my learning to develop too fast
 <span>  DATA ANALYSIS  </span>       
 </h1>
 
-It's a new knowledge area that has caught my attention. I obtained certificates in a bootcamp and other courses. <br>
+It's a new knowledge area that has caught my attention. I obtained certificates in a <br> bootcamp and other courses. <br>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=black)
 ![PL](https://img.shields.io/badge/SQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=black&color=FF0000)
