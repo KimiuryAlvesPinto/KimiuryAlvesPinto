@@ -1,8 +1,9 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sedan+SC&size=40&duration=1500&pause=1000&color=FFFFFF&background=000000&center=true&random=false&width=1100&height=100&lines=Hi%2C+there!!;I+am+a+software+developer+in+progress;And+I'm+working+hard+to+commit+to+some+projects+soon.;Welcome+to+my+profile!) 
+![women in science](https://github.com/KimiuryAlves/KimiuryAlves/assets/163214869/c4e5ac68-bd52-45a1-8377-7ad60e6a9df8)
 
-<p align="left"> 
-        <img width "700" src= "![women in science](https://github.com/KimiuryAlves/KimiuryAlves/assets/163214869/53d11778-daee-4f84-9f9a-6720bdd13ece)">
-</p>
+<div align="right">
+<img src="https://github.com/KimiuryAlves/KimiuryAlves/raw/main/assets/163214869/53d11778-daee-4f84-9f9a-6720bdd13ece" width="300px" />
+</div>
 
 <h3> 🎨 Design </h3> <br>
 
