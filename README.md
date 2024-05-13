@@ -8,9 +8,8 @@ I love to create, I am extremely creative, so I dare myself to design small proj
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-<img src align="left" width="700"> ![women in science](https://github.com/KimiuryAlves/KimiuryAlves/assets/163214869/53d11778-daee-4f84-9f9a-6720bdd13ece)
 
-<h3> 💻 Coding </h3>
+<h3>💻 Coding </h3>
 
 I am working in a small projects, tranning the logic and commands. 
 I'm learnig day by day and falling love. Coding is magic! 
@@ -46,9 +45,10 @@ It's a new knowledge area that has caught my attention. I obtained certificates 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<h2> 💻 Tools </h2>
+<h3> 💻 Tools </h3>
 
-I tried a little bit of each of these IDEs. Since last year, I've been studying several types of code to see how everything works. 
+I tried a little bit of each of these IDEs. 
+Since last year, I've been studying several types of code to see how everything works. 
 As a beginner, this approach has been better for my learning to develop too fast.
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -59,7 +59,9 @@ As a beginner, this approach has been better for my learning to develop too fast
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white&style=for-the-badge)
 
-<h2> 🚧 Project info 🚧 </h2>
+
+<h3> 🚧 Project info 🚧 </h3>
+
 <div>
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/kimiuryalves/kimiuryalves?color=FFC01E&logo=github&style=for-the-badge&logoColor=181717" height="22px">
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/kimiuryalves/kimiuryalves?color=FFC01E&logo=github&style=for-the-badge&logoColor=181717" height="22px">
@@ -71,7 +73,7 @@ As a beginner, this approach has been better for my learning to develop too fast
     </a>
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
         
-<h2> ⚔️ How to reach me</h2> 
+<h3> ⚔️ How to reach me</h3> 
     
 <a href="https://github.com/kimiuryalves">
     <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/kimiuryalves?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@kimiuryalves" height="22px">
@@ -89,4 +91,7 @@ As a beginner, this approach has been better for my learning to develop too fast
 </a>
 </br>
 
+<img src align="left" width="700"> ![women in science](https://github.com/KimiuryAlves/KimiuryAlves/assets/163214869/53d11778-daee-4f84-9f9a-6720bdd13ece)
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sedan+SC&size=60&duration=1500&pause=1000&color=FFFFFF&background=000000&center=true&random=false&width=1100&height=100&lines=thank+you+for+visiting+me!)
+
