@@ -64,7 +64,7 @@ As a beginner, this approach has been better <br> for my learning to develop too
 <span>  DATA ANALYSIS  </span>       
 </h1>
 
-It's a new knowledge area that has caught my attention. I obtained certificates in a <br> bootcamp and other courses. <br>
+It's a new knowledge area that has caught my attention. I obtained certificates in a <br> bootcamp from DIO and other courses. <br>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=black)
 ![PL](https://img.shields.io/badge/SQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=black&color=FF0000)
