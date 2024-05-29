@@ -24,11 +24,9 @@ I'm learnig day by day and falling love. Coding is magic!
 
 <h3> 💻 In progress </h3> <br>
 
-I've just started to study about C# in a Bootcamp from DIO.me <br>
-
-![C-SHARP](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge&color=black)
-<br>
-
+Uniritter - Systems Analysis and Development <br>
+Udemy - Frontend and Backend <br>
+Programming hub - This app covers a variety of core subjects, in addition to offering <br> other short courses on technologies
 
 <h3> 💻 Tools </h3> <br>
 
