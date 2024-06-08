@@ -1,6 +1,3 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sedan+SC&size=40&duration=1500&pause=1000&color=FFFFFF&background=000000&center=true&random=false&width=1100&height=100&lines=Hi%2C+there!!;I+am+a+software+developer+in+progress;And+I'm+working+hard+to+commit+to+some+projects+soon.;Welcome+to+my+profile!)
-<br>
-
 <h1>
         
 <img align="right" src="https://github.com/KimiuryAlves/KimiuryAlves/assets/163214869/97b10194-9bd4-41cc-a807-cab8674feaa2"  width="250px"/>
