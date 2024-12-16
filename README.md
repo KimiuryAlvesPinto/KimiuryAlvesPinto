@@ -48,11 +48,6 @@ As a beginner, this approach has been better <br> for my learning to develop too
 
 </div>
 <br>
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img height=180em src="https://streak-stats.demolab.com/?user=kimiuryalves&theme=midnight-purple&hide_border=true" alt="streak stats"/>
-    </a>
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<br>
 
 <h1> 
 <img align="right" src="https://github.com/KimiuryAlves/KimiuryAlves/assets/163214869/9d3e7bd1-141b-425f-aa53-3259ed084e14"  width="250px"/>
