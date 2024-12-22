@@ -22,7 +22,7 @@ I'm learnig day by day and falling love. Coding is magic!
 <h3> 💻 In progress </h3> <br>
 
 Uniritter - Systems Analysis and Development <br>
-Udemy - Frontend and Backend <br>
+Udemy - Frontend and Backend - Web Development  <br>
 Programming hub - This app covers a variety of core subjects, in addition to offering <br> other short courses on technologies
 
 <h3> 💻 Tools </h3> <br>
