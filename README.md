@@ -92,7 +92,7 @@ I love to create, I am extremely creative, so I dare myself to design small proj
     
     
 <a href="https://github.com/kimiuryalves">
-<img alt="Link to my GitHub" src="https://img.shields.io/github/followers/kimiuryalves?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@kimiuryalves" height="22px">
+<img alt="Link to my GitHub" src="https://img.shields.io/github/followers/kimiuryalvespinto?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@kimiuryalves" height="22px">
 </a>  
 <a href="https://linkedin.com/in/carol42">
     <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/kimiury-alves-pinto&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
