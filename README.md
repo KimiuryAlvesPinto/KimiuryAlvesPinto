@@ -98,7 +98,7 @@ I love to create, I am extremely creative, so I dare myself to design small proj
     <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/kimiury-alves-pinto&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
 </a> 
 <a href="mailto:carol42.helo@gmail.com">
-    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=kimialves.ka@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
+    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=kimiury.alvesp95@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
 </a> 
 </br> <br>
 
