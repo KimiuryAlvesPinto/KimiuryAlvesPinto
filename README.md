@@ -11,7 +11,6 @@ I'm learnig day by day and falling love. Coding is magic!
 <br>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF10&labelColor=black&color=black)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&labelColor=black&color=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=black) <br>
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=black&color=black)
@@ -21,9 +20,9 @@ I'm learnig day by day and falling love. Coding is magic!
 
 <h3> 💻 In progress </h3> <br>
 
-Uniritter - Systems Analysis and Development <br>
-Udemy - Frontend and Backend - Web Development  <br>
-Programming hub - This app covers a variety of core subjects, in addition to offering <br> other short courses on technologies
+- Uniritter - Systems Analysis and Development (4/5) <br>
+- Udemy - Frontend and Backend - Web Development  <br>
+- Programming hub - This app covers a variety of core subjects, in addition to offering <br> other short courses on technologies
 
 <h3> 💻 Tools </h3> <br>
 
@@ -34,7 +33,6 @@ As a beginner, this approach has been better <br> for my learning to develop too
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white&color=black)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=black)
 ![NODE.JS](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge&color=black) <br>
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=black)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=black)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white&style=for-the-badge&color=black)
