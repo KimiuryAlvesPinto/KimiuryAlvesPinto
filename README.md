@@ -2,7 +2,7 @@
         
 <img align="right" src="https://github.com/KimiuryAlves/KimiuryAlves/assets/163214869/97b10194-9bd4-41cc-a807-cab8674feaa2"  width="250px"/>
 
-ABOUT ME      
+👩‍💻 ABOUT ME      
 
 </h1> 
 
@@ -47,9 +47,8 @@ Como iniciante, essa abordagem foi a melhor forma pra eu me desenvolver mais rá
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white&style=for-the-badge&color=black)
 
 <br>
-
 <h1> 
-DATA ANALYSIS     
+📈 DATA ANALYSIS     
 </h1>
 
 Esse é um novo conhecimento que chamou minha atenção. Eu obtive certificados em bootcamps do DIO e de outras instituições. <br>
