@@ -53,7 +53,7 @@ DATA ANALYSIS
 </h1>
 
 Esse é um novo conhecimento que chamou minha atenção. Eu obtive certificados em bootcamps do DIO e de outras instituições. <br>
-
+<br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=black)
 ![PL](https://img.shields.io/badge/SQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=black&color=FF0000)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white&labelColor=black)
