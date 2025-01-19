@@ -6,7 +6,7 @@
 
 </h1> 
 
-Sou a Kimi, tenho 30 anos, moro em Porto Alegre, <br> 
+Sou a Kimi, tenho 30 anos moro em Porto Alegre, <br> 
 sou casada e mãe de 03 gatvs. <br>
 Atualmente, curso Análise e Desenvolvimento de Sistemas <br>
 e estou aprendendo a codar. Eu estou trabalhando em projetos pequenos, <br>
