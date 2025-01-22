@@ -6,8 +6,7 @@
 
 </h1> 
 
-Sou a Kimiury, tenho 30 anos, sou mãe de 03 gatos 🐱‍👤🐱‍👤🐱‍👤 <br>
-e moro em Porto Alegre - RS. <br> 
+Sou a Kimiury, tenho 30 anos e moro em Porto Alegre - RS. <br> 
 Atualmente, curso Análise e Desenvolvimento de Sistemas <br>
 e estou aprendendo a codar. Eu estou trabalhando em projetos pequenos, <br>
 treinando lógica e comandos.
