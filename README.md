@@ -7,7 +7,7 @@
 </h1> 
 
 Sou a Kimi, tenho 30 anos, sou mãe de 03 gatvs 🐱‍👤🐱‍👤🐱‍👤 <br>
-e moro em Porto Alegre <br> 
+e moro em Porto Alegre - RS. <br> 
 Atualmente, curso Análise e Desenvolvimento de Sistemas <br>
 e estou aprendendo a codar. Eu estou trabalhando em projetos pequenos, <br>
 treinando lógica e comandos.
