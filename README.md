@@ -5,7 +5,8 @@
 👩‍💻 ABOUT ME      
 
 </h1> 
-
+<img src="https://komarev.com/ghpvc/?username=KimiuryAlvesPinto" alt="Kimiury's Profile Views" />
+<br>
 Sou a Kimiury, tenho 30 anos e moro em Porto Alegre - RS. <br> 
 Atualmente, curso Análise e Desenvolvimento de Sistemas <br>
 e estou aprendendo a codar. Eu estou trabalhando em projetos pequenos, <br>
@@ -77,13 +78,13 @@ Esse é um novo conhecimento que chamou minha atenção. Eu obtive certificados 
 >> <h2> <b> CONNECT WITH ME  <b> </h2>
     
     
-<a href="https://github.com/kimiuryalves">
-<img alt="Link to my GitHub" src="https://img.shields.io/github/followers/kimiuryalvespinto?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@kimiuryalves" height="22px">
+<a href="https://github.com/KimiuryAlvesPinto">
+<img alt="Link to my GitHub" src="https://img.shields.io/github/followers/KimiuryAlvesPinto?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@KimiuryAlvesPinto" height="22px">
 </a>  
-<a href="https://linkedin.com/in/carol42">
+<a href="https://linkedin.com/in/kimiuryalvespinto">
     <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/kimiuryalvespinto&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
 </a> 
-<a href="mailto:carol42.helo@gmail.com">
+<a href="mailto:kimiury.alvesp95@gmail.com">
     <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=kimiury.alvesp95@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
 </a> 
 </br> <br>
