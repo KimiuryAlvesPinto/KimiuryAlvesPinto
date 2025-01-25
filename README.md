@@ -81,7 +81,7 @@ Esse é um novo conhecimento que chamou minha atenção. Eu obtive certificados 
 <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/kimiuryalvespinto?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@kimiuryalves" height="22px">
 </a>  
 <a href="https://linkedin.com/in/carol42">
-    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/kimiury-alves-pinto&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
+    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/kimiuryalvespinto&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
 </a> 
 <a href="mailto:carol42.helo@gmail.com">
     <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=kimiury.alvesp95@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
