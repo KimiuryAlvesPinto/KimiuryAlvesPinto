@@ -7,13 +7,14 @@
 </h1> 
 <img src="https://komarev.com/ghpvc/?username=KimiuryAlvesPinto" alt="Kimiury's Profile Views" />
 <br>
-Sou a Kimiury, tenho 30 anos e moro em Porto Alegre - RS. <br> 
-Atualmente, curso Análise e Desenvolvimento de Sistemas <br>
-e estou aprendendo a codar. Eu estou trabalhando em projetos pequenos, <br>
-treinando lógica e comandos.
-Estou aprendendo diariamente <br>
-e amando esse processo! 💜
-<br>
+Sou a Kimiury! 
+Estudante de ADS e Engenharia de Software, <br>
+Analista de Suporte no setor Payhub (TEF, Pix, etc) na empresa Linx <br> 
+Estou sempre buscando conhecimentos sobre tudo que envolva tecnologia. <br>
+Atualmente, estou praticando HTML, CSS e JS, trabalhando em projetos pequenos, <br>
+treinando lógica e comandos. <br>
+Meu foco é conquistar meu lugar como back-end 💜
+
 
 <h3> 💻Running</h3>
 <br>
@@ -28,8 +29,9 @@ e amando esse processo! 💜
 <h3> 💻 In progress </h3> <br>
 
 - Uniritter - Systems Analysis and Development (4/5) <br>
+- Faculdade Metropolitana - Pós Engenharia de Software <br>
 - Udemy - Frontend and Backend - Web Development  <br>
-- Programming hub 
+  
 
 <h3> 💻 Tools </h3> <br>
 
