@@ -9,11 +9,11 @@
 <br>
 Sou a Kimiury! 
 Estudante de ADS e Engenharia de Software, <br>
-Analista de Suporte no setor Payhub (TEF, Pix, etc) na empresa Linx <br> 
+Analista de Suporte N1 no setor Payhub (TEF, Pix, etc) na empresa Linx <br> 
 Estou sempre buscando conhecimentos sobre tudo que envolva tecnologia. <br>
 Atualmente, estou praticando HTML, CSS e JS, trabalhando em projetos pequenos, <br>
 treinando lógica e comandos. <br>
-Meu foco é conquistar meu lugar como back-end 💜
+
 
 
 <h3> 💻Running</h3>
@@ -28,7 +28,7 @@ Meu foco é conquistar meu lugar como back-end 💜
 
 <h3> 💻 In progress </h3> <br>
 
-- Uniritter - Systems Analysis and Development (4/5) <br>
+- Uniritter - Analise e Desenvolvimento de Sistemas (5/5) <br>
 - Faculdade Metropolitana - Pós Engenharia de Software <br>
 - Udemy - Frontend and Backend - Web Development  <br>
   
