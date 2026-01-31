@@ -9,7 +9,10 @@
 <br>
 Sou a Kimiury! 
 Estudante de ADS e Engenharia de Software, <br>
-Analista de Suporte N1 no setor Payhub (TEF, Pix, etc) na empresa Linx <br> 
+Analista de Suporte na Software House referencia no mercado: Linx <br>
+Responsável por instalações e manutenções com o DTEF, SiTEF, PIX e outras demandas de N1 💲📟💳
+<br> 
+<br>
 Estou sempre buscando conhecimentos sobre tudo que envolva tecnologia. <br>
 Atualmente, estou praticando HTML, CSS e JS, trabalhando em projetos pequenos, <br>
 treinando lógica e comandos. <br>
@@ -35,12 +38,9 @@ treinando lógica e comandos. <br>
 
 <h3> 💻 Tools </h3> <br>
 
-Eu testei um pouco de cada dessas IDEs.
-Em 2023, eu comecei a estudar vários tipos de códigos para descobrir como funciona. 
-Como iniciante, essa abordagem foi a melhor forma pra eu me desenvolver mais rápido.
-
 <br>
 
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white&color=black)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=black)
 ![NODE.JS](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge&color=black) 
@@ -49,6 +49,7 @@ Como iniciante, essa abordagem foi a melhor forma pra eu me desenvolver mais rá
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white&style=for-the-badge&color=black)
 
 <br>
+
 <h1> 
 📈 DATA ANALYSIS     
 </h1>
