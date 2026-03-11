@@ -18,54 +18,33 @@ Atualmente, estou apaixonada pelo Java treinando lógica e comandos. <br>
 Pretendo retornar ao JS, mas a longo prazo. <br>
 Estudo sobre Zabbix e Grafana para agregar minhas experiencias com monitoramento
 
-
-
-<h3> 💻Running</h3>
 <br>
+<br>
+
+<h3> 💻Running</h3> <br>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF10&labelColor=black&color=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=black) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=black)
-![Bootstrap](https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117&color=black)
 
-
-
+<br>
+<br>
 <h3> 💻 In progress </h3> <br>
 
 - Uniritter - Analise e Desenvolvimento de Sistemas (5/5) <br>
 - Faculdade Metropolitana - Pós Engenharia de Software <br>
 
-  
-
+<br>
+<br>
 <h3> 💻 Tools </h3> <br>
 
-<br>
-
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white&color=black)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=black)
-![NODE.JS](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge&color=black) 
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=black)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white&style=for-the-badge&color=black)
 
 <br>
-
-<h1> 
-📈 DATA ANALYSIS     
-</h1>
-
-Esse é um novo conhecimento que chamou minha atenção. Eu obtive certificados em bootcamps do DIO e de outras instituições. <br>
-<br>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=black)
-![PL](https://img.shields.io/badge/SQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=black&color=FF0000)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white&labelColor=black)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=black)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=black)
 <br>
 
-<br>
 
 <h1> 🚧 PROJECTS INFO  </h1> <br>
 
