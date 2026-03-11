@@ -9,19 +9,21 @@
 <br>
 Sou a Kimiury! 
 Estudante de ADS e Engenharia de Software, <br>
-Analista de Suporte na Software House referencia no mercado: Linx <br>
-Responsável por instalações e manutenções com o DTEF, SiTEF, PIX e outras demandas de N1 💲📟💳
+Analista de Suporte na Software House referencia no mercado: Linx. <br>
+Responsável por instalações e manutenções dos sistemas TEFs, transações e outras demandas de N1 descritas no Linkedin💲📟💳
 <br> 
 <br>
 Estou sempre buscando conhecimentos sobre tudo que envolva tecnologia. <br>
-Atualmente, estou praticando HTML, CSS e JS, trabalhando em projetos pequenos, <br>
-treinando lógica e comandos. <br>
+Atualmente, estou apaixonada pelo Java treinando lógica e comandos. <br>
+Pretendo retornar ao JS, mas a longo prazo. <br>
+Estudo sobre Zabbix e Grafana para agregar minhas experiencias com monitoramento
 
 
 
 <h3> 💻Running</h3>
 <br>
 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF10&labelColor=black&color=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=black) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=black)
@@ -33,7 +35,7 @@ treinando lógica e comandos. <br>
 
 - Uniritter - Analise e Desenvolvimento de Sistemas (5/5) <br>
 - Faculdade Metropolitana - Pós Engenharia de Software <br>
-- Udemy - Frontend and Backend - Web Development  <br>
+
   
 
 <h3> 💻 Tools </h3> <br>
