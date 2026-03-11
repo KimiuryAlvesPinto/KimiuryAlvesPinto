@@ -7,16 +7,16 @@
 </h1> 
 <img src="https://komarev.com/ghpvc/?username=KimiuryAlvesPinto" alt="Kimiury's Profile Views" />
 <br>
-Sou a Kimiury! 
+Sou a Kimiury 🌻 <br>
 Estudante de ADS e Engenharia de Software, <br>
 Analista de Suporte na Software House referencia no mercado: Linx. <br>
 Responsável por instalações e manutenções dos sistemas TEFs, transações e outras demandas de N1 descritas no Linkedin💲📟💳
 <br> 
+
 <br>
-Estou sempre buscando conhecimentos sobre tudo que envolva tecnologia. <br>
 Atualmente, estou apaixonada pelo Java treinando lógica e comandos. <br>
 Pretendo retornar ao JS, mas a longo prazo. <br>
-Estudo sobre Zabbix e Grafana para agregar minhas experiencias com monitoramento
+Estudo sobre Zabbix e Grafana para agregar minhas experiencias com monitoramento.
 
 <br>
 <br>
